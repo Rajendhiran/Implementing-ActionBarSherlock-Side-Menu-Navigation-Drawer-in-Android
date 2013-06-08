@@ -83,7 +83,7 @@ public class MainActivity extends SherlockFragmentActivity {
 
 			public void onDrawerOpened(View drawerView) {
 				// TODO Auto-generated method stub
-				super.onDrawerClosed(drawerView);
+				super.onDrawerOpened(drawerView);
 			}
 		};
 
